@@ -43,7 +43,6 @@
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZpeedX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZpeedX&layout=compact&theme=radical&hide_border=true&v=1" />
-<img height="170" src="https://streak-stats.demolab.com?user=ZpeedX&theme=radical&hide_border=true&v=1" />
 
 </div>
 
@@ -61,5 +60,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
 </p>
+
 
 
