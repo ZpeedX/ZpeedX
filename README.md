@@ -1,4 +1,4 @@
-<!-- Banner / Cover -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Nontakorn%20Ut-umong&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner"/>
 </p>
@@ -12,7 +12,7 @@
 - 🌱  Currently exploring **Spring MVC, Hibernate, and AI/ML tools**  
 - 💡  Passionate about **building scalable apps & impactful software**  
 - 🎯  2025 Goal: **Launch my first SaaS project**  
-- 📫  Reach me: **nontakorn.ut.umong@example.com**
+- 📫  Reach me: **nontakornp2004@gmail.com**
 
 ---
 
@@ -34,15 +34,22 @@
 | Project | Tech Stack | Highlights | Links |
 |---------|------------|------------|-------|
 | **📚 Book Online System** | Spring MVC · Hibernate · MySQL | Booking platform with secure authentication | [Repo](https://github.com/ZpeedX/book-online) |
-| **🚛 Percy Express** | Node.js · Express · MongoDB | Logistics startup prototype with real-time tracking | [Repo](https://github.com/ZpeedX/percy-express) |
+| **🚛 Percy Express** | Node.js · Express · MongoDB | Logistics prototype with real-time tracking | [Repo](https://github.com/ZpeedX/percy-express) |
 | **🏥 NCDs Mobile App** | Java · Android | Health risk screening for Mae Ai Hospital | [Repo](https://github.com/ZpeedX/ncds-app) |
 
 ---
 
 ## 📊 Stats & Activity
 <div align="center">
+
+<!-- overall stats -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZpeedX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" />
+
+<!-- top languages -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZpeedX&layout=compact&theme=radical&hide_border=true&v=1" />
+
+<!-- streak stats -->
+<img height="170" src="https://streak-stats.demolab.com?user=ZpeedX&theme=radical&hide_border=true&v=1" />
 
 </div>
 
@@ -50,8 +57,9 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:nontakorn.ut.umong@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nontakornp2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nontakorn-ut-umong-9a4747386/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ZpeedX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -59,7 +67,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
 </p>
-
-
-
-
