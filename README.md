@@ -60,9 +60,11 @@
   <a href="mailto:nontakornp2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-nontakornp2004%40gmail.com-b47b42?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2f2a24" />
   </a>
+  <br>
   <a href="https://github.com/ZpeedX">
     <img src="https://img.shields.io/badge/GitHub-ZpeedX-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2f2a24" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/nontakorn-ut-umong-9a4747386/">
     <img src="https://img.shields.io/badge/LinkedIn-Nontakorn%20Ut--umong-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2f2a24" />
   </a>
@@ -73,3 +75,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b47b42,100:2f2a24" />
 </p>
+
