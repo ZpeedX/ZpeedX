@@ -1,6 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Nontakorn%20Ut-umong&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&text=Nontakorn%20Ut-umong&color=0:0b1220,50:2f2a24,100:b47b42"
+    alt="banner"
+  />
 </p>
 
 <h3 align="center">💻 IT Student @ Maejo University | Full-stack Developer | Lifelong Learner 🚀</h3>
@@ -42,14 +45,11 @@
 ## 📊 Stats & Activity
 <div align="center">
 
-<!-- overall stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZpeedX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZpeedX&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&v=2" />
 
-<!-- top languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZpeedX&layout=compact&theme=radical&hide_border=true&v=1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZpeedX&layout=compact&theme=rose_pine&hide_border=true&v=2" />
 
-<!-- streak stats -->
-<img height="170" src="https://streak-stats.demolab.com?user=ZpeedX&theme=radical&hide_border=true&v=1" />
+<img height="170" src="https://streak-stats.demolab.com?user=ZpeedX&theme=rose_pine&hide_border=true&v=2" />
 
 </div>
 
@@ -57,14 +57,19 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:nontakornp2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nontakorn-ut-umong-9a4747386/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ZpeedX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nontakornp2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nontakornp2004%40gmail.com-b47b42?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=2f2a24" />
+  </a>
+  <a href="https://github.com/ZpeedX">
+    <img src="https://img.shields.io/badge/GitHub-ZpeedX-0b1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2f2a24" />
+  </a>
+  <a href="https://www.linkedin.com/in/nontakorn-ut-umong-9a4747386/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nontakorn%20Ut--umong-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2f2a24" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b47b42,100:2f2a24" />
 </p>
-
